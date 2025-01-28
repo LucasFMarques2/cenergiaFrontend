@@ -1,8 +1,5 @@
-# React + Vite
+# Cenergia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Instruções para rodar a aplicação
+1. a aplicação é em react então tenha o NodeJs instalado
+2. na pasta src/service troque a rota para a roda do seu backend
